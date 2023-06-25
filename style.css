@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+p {
+  text-align: center;
+  background-color: antiquewhite;
+  text-align: justify;
+  margin: 20px;
+}
