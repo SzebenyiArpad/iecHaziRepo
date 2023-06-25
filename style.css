@@ -8,3 +8,15 @@ p {
   text-align: justify;
   margin: 20px;
 }
+
+table {
+  text-align: center;
+  margin: auto;
+  border: solid 1px lawngreen;
+}
+td {
+  border: solid 1px green;
+}
+thead {
+  background-color: greenyellow;
+}
